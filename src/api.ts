@@ -3,7 +3,6 @@ import { sanitizeUrl } from '@braintree/sanitize-url';
 import monk from 'monk';
 import dotenv from 'dotenv';
 import { nanoid } from 'nanoid';
-import { URLSearchParams } from 'url';
 dotenv.config();
 
 const db = monk(String(process.env.DB_CONNECTION));
