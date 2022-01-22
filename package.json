@@ -26,7 +26,7 @@
     "express": "^4.17.1",
     "figlet": "^1.5.0",
     "monk": "^7.3.1",
-    "nanoid": "^3.1.12",
+    "nanoid": "^3.1.31",
     "nodemon": "^2.0.4",
     "prettier": "^2.0.5",
     "rimraf": "^3.0.2",
